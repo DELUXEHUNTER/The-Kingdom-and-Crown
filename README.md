@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# The kingdom and crown.
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+An unciv mod adding new civilizations, era's, ect... Overall changing the entire game from the ground up, I'm very new to modding the game and this is a very ambitious step so it may be horrible, but I will try my best to give ya'll an amazing mod
